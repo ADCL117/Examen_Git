@@ -19,6 +19,10 @@ Berenjena
 Zanahoria
 Calabaza
 Jitomate
+Cebolla
+Ajo
+Maíz
+Jitomáte
 
 Vegetales:
 
@@ -28,4 +32,7 @@ Coliflor
 Pepino
 Pimiento verde
 Lechuga
-
+Esparrago
+Guisante
+Col
+Calabacín
