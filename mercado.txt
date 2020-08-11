@@ -6,6 +6,10 @@ Fresa
 Grosella
 Zarzamora
 Melón
+Uva
+Manzana
+Pera
+Melocotón
 
 Verduras:
 
