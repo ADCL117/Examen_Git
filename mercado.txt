@@ -15,6 +15,10 @@ Berenjena
 Zanahoria
 Calabaza
 Jitomate
+Cebolla
+Ajo
+Maíz
+Jitomáte
 
 Vegetales:
 
