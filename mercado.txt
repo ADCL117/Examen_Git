@@ -1,38 +1,38 @@
 Frutas:
 
-1.Arándano
-2.Frambuesa
-3.Fresa
-4.Grosella
-5.Zarzamora
-6.Melón
-7.Uva
-8.Manzana
-9.Pera
-10.Melocotón
+I.Arándano
+II.Frambuesa
+III.Fresa
+IV.Grosella
+V.Zarzamora
+VI.Melón
+VII.Uva
+VIII.Manzana
+IX.Pera
+X.Melocotón
 
 Verduras:
 
-11.Alcachofa
-12.Apio
-13.Berenjena
-14.Zanahoria
-15.Calabaza
-16.Jitomate
-17.Cebolla
-18.Ajo
-19.Maíz
-20.Jitomáte
+XI.Alcachofa
+XII.Apio
+XIII.Berenjena
+XIV.Zanahoria
+XV.Calabaza
+XVI.Jitomate
+XVII.Cebolla
+XVIII.Ajo
+XIX.Maíz
+XX.Jitomáte
 
 Vegetales:
 
-21.Brócoli
-22.Esparragos
-23.Coliflor
-24.Pepino
-25.Pimiento verde
-26.Lechuga
-27.Esparrago
-28.Guisante
-29.Col
-30.Calabacín
+XXI.Brócoli
+XXII.Esparragos
+XXIII.Coliflor
+XXIV.Pepino
+XXV.Pimiento verde
+XXVI.Lechuga
+XXVII.Esparrago
+XXVIII.Guisante
+XXIX.Col
+XXX.Calabacín
