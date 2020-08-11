@@ -1,0 +1,27 @@
+Frutas:
+
+Arándano
+Frambuesa
+Fresa
+Grosella
+Zarzamora
+Melón
+
+Verduras:
+
+Alcachofa
+Apio
+Berenjena
+Zanahoria
+Calabaza
+Jitomate
+
+Vegetales:
+
+Brócoli
+Esparragos
+Coliflor
+Pepino
+Pimiento verde
+Lechuga
+
