@@ -28,4 +28,7 @@ Coliflor
 Pepino
 Pimiento verde
 Lechuga
-
+Esparrago
+Guisante
+Col
+Calabacín
